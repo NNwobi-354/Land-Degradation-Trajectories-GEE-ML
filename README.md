@@ -5,7 +5,7 @@ This repository contains the comprehensive analytical pipeline for a comparative
 
 ## 🧪 Scientific Methodology
 The study utilizes a multi-stage approach to quantify degradation:
-*   **Data Acquisition**: High-resolution satellite imagery and 11 environmental/social predictors including Albedo, Soil Moisture, and Conflict Density.
+*   **Data Acquisition**: High-resolution satellite imagery and 13 environmental/social predictors including Albedo, Soil Moisture, and Conflict Density.
 *   **Trend Analysis**: Application of the **Mann-Kendall trend test** and **NDVI anomalies** to identify "Crisis Years" of significant browning.
 *   **Machine Learning Attribution**: Using **Random Forest** and **XGBoost** to rank driver importance via Mean Decrease in Impurity (MDI).
 *   **Statistical Validation**: Robustness checks using **Variable Influence on Projection (VIP)** and **Z-score extremity analysis**.
